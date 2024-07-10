@@ -1,0 +1,1 @@
+npx shadcn-ui@latest add accordion alert alert-dialog aspect-ratio badge breadcrumb button calendar card carousel chart checkbox collapsible command dialog drawer dropdown-menu form hover-card label navigation-menu popover radio-group resizable scroll-area select separator sheet skeleton sonner switch table tabs textarea toast toggle toggle-group tooltip
